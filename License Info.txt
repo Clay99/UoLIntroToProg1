@@ -1,0 +1,33 @@
+Sound:
+
+"bgmusic1.mp3"
+	Artist: Jeremy L "Jer" (https://soundcloud.com/izmejeremy/)
+	From: https://www.youtube.com/watch?v=Ahfu1E_BBSI
+	License: CC BY-NC-SA 3.0 (https://creativecommons.org/licenses/by-nc-sa/3.0/)
+	Derivative: converted(mp3) and downsampled(64k)
+
+"collect.mp3"
+	Artist: wobbleboxx (https://www.wobbleboxx.com)
+	From: https://opengameart.org/content/level-up-power-up-coin-get-13-sounds
+	License: Public Domain CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+	Derivative: Rise06.aif, renamed, converted(mp3) and downsampled(64k)
+
+
+"jump.mp3"
+	Artist: phoenix1291 (SwissArcadeGameEntertainment)
+	From: "Mario Jumping Sound" https://opengameart.org/content/sound-effects-mini-pack15
+	License: Public Domain CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+
+"death.mp3"
+	Artist: "Alexander"
+	From: "Roblox death sound. roblox oof." http://www.orangefreesounds.com/roblox-death-sound/
+	License: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+
+Objects:
+
+"tent"
+	Artist: Videoplasty.com (https://www.videoplasty.com)
+	From: "Tent Flat Icon Vector.svg" from https://commons.wikimedia.org/wiki/File:Tent_Flat_Icon_Vector.svg##
+	License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+	Derivative: Coordinate and colour details extracted from svg shapes and converted to javascript p5.js shapes
